@@ -11,6 +11,7 @@ The project creates a simulation of a traffic light, which controls flow of traf
 <img src="images/TrafficLights_SystemArchitecture.PNG" width="400" height="400">
 #### Traffic Lights Diagram
 <img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
