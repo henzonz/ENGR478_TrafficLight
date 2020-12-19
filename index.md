@@ -13,6 +13,6 @@ The project creates a simulation of a traffic light, which controls flow of traf
 <img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
 
 <video width = "320" height = "240" controls>
-  <source src = "traffic_light.MOV" type = "video/MOV">
+  <source src = "images/traffic_light.MOV" type = "video/MOV">
  </video>
 
