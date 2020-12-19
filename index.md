@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ENGR 478 Traffic Lights Final Project
 
 You can use the [editor on GitHub](https://github.com/edmundzano/ENGR478_TrafficLight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
