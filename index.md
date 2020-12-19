@@ -4,7 +4,7 @@
 The proposed idea was to build a remote controlled lamp that users can interact with by using an iOS based application. As the initial plan did not work due to the time constraint and also the inability to built a workable application, another idea that came into mind was to create a simulation of a traffic light. 
 
 ## Project Description
-The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. Traffic lights consist of controlling the traffic in the North, East, South, and West direction
+The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. 
 
 ### Markdown
 
