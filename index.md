@@ -8,6 +8,7 @@ The proposed idea was to build a remote controlled lamp that users can interact 
 ### Markdown
 
 ![SouthYellow_WestRed_CrosswalkRed](images/TrafficLights_SystemArchitecture.PNG)
+![TrafficLights_Diagram](images/TrafficLights_Diagram.PNG)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
