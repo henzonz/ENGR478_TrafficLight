@@ -7,7 +7,7 @@ The proposed idea was to build a remote controlled lamp that users can interact 
 
 ### Markdown
 
-![SouthYellow_WestRed_CrosswalkRed](images/SouthYellow_WestRed_CrosswalkRed.jpg)
+![SouthYellow_WestRed_CrosswalkRed](images/TrafficLights_SystemArchitecture.PNG)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
