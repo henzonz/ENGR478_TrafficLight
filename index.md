@@ -7,7 +7,7 @@ The proposed idea was to build a remote controlled lamp that users can interact 
 The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. Traffic lights consist of controlling the traffic in the North, East, South, and West direction
 
 ### Markdown
-#### System Architecture
+<h4> System Architecture </h4>
 <img src="images/TrafficLights_SystemArchitecture.PNG" width="400" height="400">
 #### Traffic Lights Diagram
 <img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
