@@ -8,8 +8,7 @@ The project creates a simulation of a traffic light, which controls flow of traf
 
 ### Markdown
 #### System Architecture
-![TrafficLights_SystemArchitecture](images/TrafficLights_SystemArchitecture.PNG =250x250)
-<img src="images/TrafficLights_SystemArchitecture.PNG" width="100" height="100">
+<img src="images/TrafficLights_SystemArchitecture.PNG" width="400" height="400">
 #### Traffic Lights Diagram
 ![TrafficLights_Diagram](images/TrafficLights_Diagram.PNG =250x250)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
