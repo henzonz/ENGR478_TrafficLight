@@ -7,9 +7,9 @@ The proposed idea was to build a remote controlled lamp that users can interact 
 The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. Traffic lights consist of controlling the traffic in the North, East, South, and West direction
 
 ### Markdown
-
+#### System Architecture
 ![TrafficLights_SystemArchitecture](images/TrafficLights_SystemArchitecture.PNG)
-
+#### Traffic Lights Diagram
 ![TrafficLights_Diagram](images/TrafficLights_Diagram.PNG)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
