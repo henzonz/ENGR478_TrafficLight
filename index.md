@@ -8,7 +8,9 @@ The project creates a simulation of a traffic light, which controls flow of traf
 
 ### Markdown
 
-![SouthYellow_WestRed_CrosswalkRed](images/SouthYellow_WestRed_CrosswalkRed.jpg)
+![TrafficLights_SystemArchitecture](images/TrafficLights_SystemArchitecture.PNG)
+
+![TrafficLights_Diagram](images/TrafficLights_Diagram.PNG)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
