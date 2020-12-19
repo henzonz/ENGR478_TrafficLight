@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## ENGR 478 Traffic Lights Final Project
 
-You can use the [editor on GitHub](https://github.com/edmundzano/ENGR478_TrafficLight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project Overview
+### Background
+The proposed idea was to build a remote controlled lamp that users can interact with by using an iOS based application. As the initial plan did not work due to the time constraint and also the inability to built a workable application, another idea that came into mind was to create a simulation of a traffic light. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-![SouthYellow_WestRed_CrosswalkRed](images/SouthYellow_WestRed_CrosswalkRed.jpg)
+![SouthYellow_WestRed_CrosswalkRed](images/TrafficLights_SystemArchitecture.PNG)
+![TrafficLights_Diagram](images/TrafficLights_Diagram.PNG)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
