@@ -5,36 +5,14 @@ The proposed idea was to build a remote controlled lamp that users can interact 
 
 
 <h2> Project Description </h2>
-The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. Traffic lights consist of controlling the traffic in the North, East, South, and West direction
-
+The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. The goal of this project is to help understand how traffic light works and create a simulation of it using the Tiva Launchpad Microcontroller and a circuit with LEDs and wires. The main component of this project is implementing the simulation with the concept of periodic interrupt and Timer0A.
 
 <h4> System Architecture </h4>
 <img src="images/TrafficLights_SystemArchitecture.PNG" width="400" height="400">
 <h4> Traffic Lights Diagram </h4>
 <img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<video width = "320" height = "240" controls>
+  <source src = "traffic_light.MOV" type = "video/MOV">
+ </video>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edmundzano/ENGR478_TrafficLight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
