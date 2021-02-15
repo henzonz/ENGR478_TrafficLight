@@ -1,38 +1,19 @@
-## Welcome to GitHub Pages
+## ENGR 478 Traffic Lights Final Project
 
-You can use the [editor on GitHub](https://github.com/edmundzano/ENGR478_TrafficLight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2> Background </h2>
+The proposed idea was to build a remote controlled lamp that users can interact with by using an iOS based application. As the initial plan did not work due to the time constraint and also the inability to built a workable application, another idea that came into mind was to create a simulation of a traffic light. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h2> Project Description </h2>
+The project creates a simulation of a traffic light, which controls flow of traffic for cars and pedestrians to follow. Traffic lights are there to ensure that everyone on the road is safe and reduce the chances of accidents. The goal of this project is to help understand how traffic light works and create a simulation of it using the Tiva Launchpad Microcontroller and a circuit with LEDs and wires. The main component of this project is implementing the simulation with the concept of periodic interrupt and Timer0A which is going to help loop our LEDs through each state.
 
-![SouthYellow_WestRed_CrosswalkRed](images/SouthYellow_WestRed_CrosswalkRed.jpg)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h4> System Architecture </h4>
+<img src="images/TrafficLights_SystemArchitecture.PNG" width="400" height="400">
+<h4> Traffic Lights Diagram </h4>
+<img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
 
-```markdown
-Syntax highlighted code block
+<h4> Results of Project </h4>
+The link that is provided below is the video to demonstrate the results of our project. The simulation is a continuous loop of the light turning on from the East/West Direction of cars and pedestrian crossing to the North/South direction.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edmundzano/ENGR478_TrafficLight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://drive.google.com/file/d/1kpBDTwzpZImwBYgF6U_FX86WS8rT6iO5/view?usp=sharing">Traffic Light Simulation Video Demo</a>
